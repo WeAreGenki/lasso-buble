@@ -1,9 +1,6 @@
 node_modules/
-package-lock.json*
+test/coverage/
 .cache/
+package-lock.json*
 .eslintcache
 *.log
-.nyc_output/
-coverage/
-.vscode
-.DS_Store
