@@ -15,7 +15,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "lint": "eslint --ignore-path .gitignore --ext .js src test",
+    "lint": "eslint --ignore-path .gitignore --ext .js index.js test",
     "test": "jest",
     "test-ci": "yarn test --coverage --runInBand --ci",
     "test:watch": "yarn test --coverage --notify --watch"
