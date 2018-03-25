@@ -1,13 +1,7 @@
 'use strict'; // eslint-disable-line
 
 module.exports = {
-  // preset: '@wearegenki/test',
-  // globalSetup: '',
-  // globalTeardown: '',
-  // testEnvironment: '',
-  // setupTestFrameworkScriptFile: '',
-  // transform: {},
-
+  transform: {},
   testPathIgnorePatterns: [
     '/coverage/',
     '/node_modules/',
