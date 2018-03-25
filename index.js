@@ -45,6 +45,6 @@ module.exports = (lasso, config) => {
      * @param {string} input The JS code being processed.
      * @returns {string} ES5 JS code.
      */
-    transform: input => buble.transform(input, config),
+    transform: input => (buble.transform(input, config)).code,
   });
 };
