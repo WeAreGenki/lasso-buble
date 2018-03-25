@@ -19,6 +19,7 @@
  */
 
 // TODO: Add source map support once lasso supports it
+//  ↳ https://buble.surge.sh/guide/#using-the-javascript-api
 
 'use strict'; // eslint-disable-line
 
