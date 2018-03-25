@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json*
+.cache/
+.eslintcache
+*.log
+.nyc_output/
+coverage/
+.vscode
+.DS_Store
