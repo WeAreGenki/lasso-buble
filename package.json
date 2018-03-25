@@ -1,6 +1,6 @@
 {
   "name": "lasso-buble",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lasso plugin to transform JS using Buble.",
   "repository": "https://github.com/WeAreGenki/lasso-buble",
   "homepage": "https://wearegenki.com/pro#OpenSource",
